@@ -1,0 +1,16 @@
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\bin\Debug\net8.0-windows\MusicSchool.exe
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\bin\Debug\net8.0-windows\MusicSchool.deps.json
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\bin\Debug\net8.0-windows\MusicSchool.runtimeconfig.json
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\bin\Debug\net8.0-windows\MusicSchool.dll
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\bin\Debug\net8.0-windows\MusicSchool.pdb
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\MusicSchool.Form1.resources
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\MusicSchool.csproj.GenerateResource.cache
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\MusicSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\MusicSchool.AssemblyInfoInputs.cache
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\MusicSchool.AssemblyInfo.cs
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\MusicSchool.csproj.CoreCompileInputs.cache
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\MusicSchool.dll
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\refint\MusicSchool.dll
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\MusicSchool.pdb
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\MusicSchool.genruntimeconfig.cache
+C:\Users\Israel Fridless\Desktop\Kodcode 2\C#\MusicSchool\MusicSchool\obj\Debug\net8.0-windows\ref\MusicSchool.dll
