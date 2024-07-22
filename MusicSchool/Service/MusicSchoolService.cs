@@ -12,6 +12,11 @@ namespace MusicSchool.Service
 {
     internal static class MusicSchoolService
     {
+        public static void test()
+        {
+            MessageBox.Show("Bla Bla!!!");
+        }
+
         public static void CreateXmlIfNotExists()
         {
             if (!File.Exists(musicSchoolPath))
